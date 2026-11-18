@@ -1,5 +1,5 @@
 # Technical-Writing-Prompt
-Prompt Engineered to generate a report of project or similar given relevant context.
+LLM prompt that reviews policies and SOPs for clarity, with prompt-injection safeguards and human review.
 # Policy Clarity Reviewer
 
 A reusable LLM prompt that checks a draft AI policy or SOP for plain-language problems and suggests rewrites. It is a small, low-code governance tool: one prompt, three test policies, and a human-review step.
